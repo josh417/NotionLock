@@ -1,0 +1,37 @@
+* {
+    color: black;
+    background-color: #2F3438
+}
+
+body {
+    background-color: #2F3438
+}
+
+.form-control {
+    background-color: #3a3a3a;
+}
+
+
+.enterPasswordText {
+    color: white;
+    font-weight: bold;
+}
+
+.enterText {
+    color: white;
+    font-weight: bold;
+}
+
+.form-check-label {
+    color: white;
+}
+
+
+h1 {
+    color: white;
+}
+
+
+#result {
+    color: white;
+}
